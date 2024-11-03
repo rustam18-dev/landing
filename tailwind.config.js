@@ -13,6 +13,7 @@ export default {
       },
     },
     screens: {
+      desktop: {max: "1230px"},
       laptop: { max: "1024px" },
       tablet: { max: "772px" },
       mobile: { max: "530px" },
